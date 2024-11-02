@@ -118,6 +118,8 @@ public class BurcBulma {
             }else{
                 System.out.println("Geçersin Gün");
             }
+        }else {
+            System.out.println("Geçersiz değer");
         }
     }
 }
